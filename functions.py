@@ -1,4 +1,4 @@
-FILEPATH = "//Dropbox (Nozomi Networks)/My Mac (Juans-MacBook-Pro.local)/web_app1/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
