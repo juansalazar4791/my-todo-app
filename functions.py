@@ -1,4 +1,4 @@
-FILEPATH = "/Users/juansalazar/PycharmProjects/pythonProject1/venv/todos.txt"
+FILEPATH = "/Users/juansalazar/Dropbox (Nozomi Networks)/My Mac (Juans-MacBook-Pro.local)/web_app1/todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
